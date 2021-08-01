@@ -33,6 +33,24 @@ https://auth0.com/blog/creating-beautiful-apps-with-angular-material/#Securing-A
 
 ng serve
 
+## Git Commands
+
+```xml
+
+Update Password
+Angular9-Import-project-module % git config --global user.name "Example_Name"
+Angular9-Import-project-module % git config --global user.email "Example_EMAIL"
+Angular9-Import-project-module % git config --global user.password "Example_PASSWORD"
+
+Public Github Source % git clone https://github.com/pawankv89/Angular9-Auth0-Login-Material.git
+Angular9-Import-project-module % git status
+Angular9-Import-project-module % git add *
+Angular9-Import-project-module % git commit -m "Initial commit"
+Angular9-Import-project-module % git status
+Angular9-Import-project-module % git push -u origin main
+Angular9-Import-project-module % 
+```
+
 ## License
 
 This code is distributed under the terms and conditions of the [MIT license](LICENSE).
