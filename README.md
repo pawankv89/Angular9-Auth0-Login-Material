@@ -5,6 +5,7 @@
 ![](https://github.com/pawankv89/Angular9-Auth0-Login-Material/blob/main/images/screen_1.png)
 ![](https://github.com/pawankv89/Angular9-Auth0-Login-Material/blob/main/images/screen_2.png)
 ![](https://github.com/pawankv89/Angular9-Auth0-Login-Material/blob/main/images/screen_3.png)
+![](https://github.com/pawankv89/Angular9-Auth0-Login-Material/blob/main/images/screen_4.png)
 
 ## Version 1.0
 This Sample for Learning Prime NG Button Module.
